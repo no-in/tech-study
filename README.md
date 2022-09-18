@@ -34,7 +34,7 @@
 
 ## 📗 JAVA [GO](https://github.com/no-in/tech-study/wiki)
 
- -[JVM](https://github.com/no-in/tech-study/wiki/JVM)
+ - [JVM](https://github.com/no-in/tech-study/wiki/JVM)
  
 ## 📗 JAVA [GO](https://github.com/no-in/tech-study/wiki)
 
