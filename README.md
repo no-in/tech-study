@@ -34,6 +34,10 @@
 
 ## 📗 JAVA [GO](https://github.com/no-in/tech-study/wiki)
 
+ -[JVM](https://github.com/no-in/tech-study/wiki/JVM)
+ 
+## 📗 JAVA [GO](https://github.com/no-in/tech-study/wiki)
+
 ## 📗 스프링 [GO](https://github.com/no-in/tech-study/wiki)
 
 ## 📗 경험, 자료구조, 기타 [GO](https://github.com/no-in/tech-study/wiki)
