@@ -38,8 +38,7 @@
 ## 📗 JAVA [GO](https://github.com/no-in/tech-study/wiki)
 
  - [JVM](https://github.com/no-in/tech-study/wiki/JVM)
- 
-## 📗 JAVA [GO](https://github.com/no-in/tech-study/wiki)
+ - [가비지컬렉션](https://github.com/no-in/tech-study/wiki/%EA%B0%80%EB%B9%84%EC%A7%80%EC%BB%AC%EB%A0%89%EC%85%98)
 
 ## 📗 스프링 [GO](https://github.com/no-in/tech-study/wiki)
 
