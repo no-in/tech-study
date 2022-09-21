@@ -39,11 +39,10 @@
 
  - [JVM](https://github.com/no-in/tech-study/wiki/JVM)
  - [가비지컬렉션](https://github.com/no-in/tech-study/wiki/%EA%B0%80%EB%B9%84%EC%A7%80%EC%BB%AC%EB%A0%89%EC%85%98)
-
 ## 📗 스프링 [GO](https://github.com/no-in/tech-study/wiki)
 
 ## 📗 경험, 자료구조, 기타 [GO](https://github.com/no-in/tech-study/wiki)
-
+ - [스택 vs 큐](https://github.com/no-in/tech-study/wiki/StackvsQueue)
 ## 📗 손코딩 [GO](https://github.com/no-in/tech-study/wiki)
 
 
