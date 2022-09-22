@@ -31,8 +31,9 @@
 ## 
 <br/>
 
-## 📗 네트워크 [GO](https://github.com/no-in/tech-study/wiki)
+## 📗 네트워크 [GO](https://github.com/no-in/tech-study/)
 
+- [WAS](https://github.com/no-in/tech-study/wiki/)
 ## 📗 DB [GO](https://github.com/no-in/tech-study/wiki)
 
 ## 📗 JAVA [GO](https://github.com/no-in/tech-study/wiki)
