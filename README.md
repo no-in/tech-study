@@ -42,7 +42,7 @@
  - [가비지컬렉션](https://github.com/no-in/tech-study/wiki/%EA%B0%80%EB%B9%84%EC%A7%80%EC%BB%AC%EB%A0%89%EC%85%98)
  - [GC에서 stop-the-world 하는 이유](https://github.com/no-in/tech-study/wiki/GC%EC%97%90%EC%84%9Cstop-the-world%ED%95%98%EB%8A%94%EC%9D%B4%EC%9C%A0)
  - [gc가 없어질 객체 어떻게 찾는지?](https://github.com/no-in/tech-study/wiki/gc%EA%B0%80%EC%97%86%EC%96%B4%EC%A7%88%EA%B0%9D%EC%B2%B4%EC%96%B4%EB%96%BB%EA%B2%8C%EC%B0%BE%EB%8A%94%EC%A7%80?)
- - [gc 알고리즘](gc알고리즘)
+ - [gc 알고리즘](https://github.com/no-in/tech-study/wiki/gc%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
  
 ## 📗 스프링 [GO](https://github.com/no-in/tech-study/wiki)
 
