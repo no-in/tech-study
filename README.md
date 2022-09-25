@@ -48,6 +48,9 @@
 
 ## 📗 경험, 자료구조, 기타 [GO](https://github.com/no-in/tech-study/wiki)
  - [스택 vs 큐](https://github.com/no-in/tech-study/wiki/StackvsQueue)
+- [list map set 차이](https://github.com/no-in/tech-study/wiki/list,map,set차이)
+- [array vs linked list3](https://github.com/no-in/tech-study/wiki/arrayvslinked_list_3)
+- [스택을 구현한다고 했을 때 뭘로 구현하려는지](https://github.com/no-in/tech-study/wiki/스택을구현한다고했을때뭘로구현하려는지)
 ## 📗 손코딩 [GO](https://github.com/no-in/tech-study/wiki)
 
 
