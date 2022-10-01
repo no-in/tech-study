@@ -35,6 +35,16 @@
 
 - [WAS](https://github.com/no-in/tech-study/wiki/)
 ## 📗 DB [GO](https://github.com/no-in/tech-study/wiki)
+- [데이터베이스전반적인구조](데이터베이스전반적인구조)
+- [데이터베이스join종류](JOIN)
+- [인덱스,트랜잭션](인덱스,트랜잭션)
+- [트랜잭션 격리 수준 (예시로 자세하게) 5](트랙잭션격리수준)
+- [결합도 낮추는 법](결합도낮추는법)
+- [정규화 반정규화 관한 질문 4](정규화반정규화)
+- [join 비용이 커지는 이유](join비용이커지는이유)
+- [sql 성능 향상, 튜닝 경험](sql성능향상,튜닝경험)
+- [NOSQL](NOSQL)
+- [몽고db 스토리지 엔진](몽고db스토리지엔진)
 
 ## 📗 JAVA [GO](https://github.com/no-in/tech-study/wiki)
 
