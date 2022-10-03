@@ -31,6 +31,8 @@
 ## 
 <br/>
 
+GO : Wiki 작성 확인
+
 ## 📗 네트워크 [GO](https://github.com/no-in/tech-study/)
 
 - [WAS](https://github.com/no-in/tech-study/wiki/)
