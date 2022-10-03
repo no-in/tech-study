@@ -33,7 +33,7 @@
 
 GO : Wiki 작성 확인
 
-## 📗 네트워크 [GO](https://github.com/no-in/tech-study/)
+## 📗 네트워크 [GO](https://github.com/no-in/tech-study/wiki)
 
 - [WAS](https://github.com/no-in/tech-study/wiki/)
 ## 📗 DB [GO](https://github.com/no-in/tech-study/wiki)
