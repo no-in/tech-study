@@ -8,7 +8,7 @@
 
 👩🏻 김현욱 [github](github.com/hyeonuk27)
 
-🧑🏻 장인규 [github](github.com/inguuu)
+🧑🏻 장인규 [github](www.github.com/inguuu)
 
 👦🏻 안성호 []()
 
